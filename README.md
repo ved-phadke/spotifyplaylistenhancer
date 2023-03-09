@@ -1,4 +1,4 @@
-# spotifyplaylistenhancer
+# Spotify Playlist Enhancer
 Building models that can take a user's spotify playlist and return songs that would fit best within the context of the playlist
 
 # Medium Article:
