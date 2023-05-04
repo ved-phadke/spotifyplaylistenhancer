@@ -2,7 +2,7 @@
 Building models that can take a user's spotify playlist and return songs that would fit best within the context of the playlist
 
 
-# Authors: Ved Phadke, Lukas Hager (Leads), Chloe Li, Ethan Warren, Justin Gong, Anish Ravilla
+## Authors: Ved Phadke, Lukas Hager (Leads), Chloe Li, Ethan Warren, Justin Gong, Anish Ravilla
 
 
 # Breakdown of Project Contents
