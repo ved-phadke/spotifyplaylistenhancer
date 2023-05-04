@@ -1,5 +1,7 @@
 # Spotify Playlist Enhancer
-Building models that can take a user's spotify playlist and return songs that would fit best within the context of the playlist
+This project consists of two models built end-to-end using spotify audio feature data from 1919-2020 which can take a user's spotify playlist and return songs that would fit best within the context of said playlist. This project involved using the Spotify API to scrape data, cleaning and processing said data, and building a KNN clustering model as well as a deep learning neural network model.
+
+Skills employed include: API use, webscraping, data cleaning, data visualization, preprocessing, model building, training, and testing, hyperparameter tuning, and more.
 
 
 ## Authors: Ved Phadke, Lukas Hager (Leads), Chloe Li, Ethan Warren, Justin Gong, Anish Ravilla
