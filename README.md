@@ -16,6 +16,6 @@ Skills employed include: API use, webscraping, data cleaning, data visualization
 [**Dataset**](https://drive.google.com/file/d/10woU2GjRhfYCYoEDC2P6uzBbU92MIGQr/view?usp=sharing)
 
 
-# Medium Article Detaing Process, Challenges, and Findings:
+# Medium Article Detailing Process, Challenges, and Findings:
 https://medium.com/@ucladsu/enhancing-spotify-playlists-using-their-audio-features-with-classical-and-deep-learning-methods-f8c0e7e878cf
 
